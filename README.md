@@ -10,7 +10,7 @@ the page to retrieve the databse information just add "/retrieve" to the URL
 
 the page contain a chatbot for assistant
 
-the bot is made ibm watson assistant
+the bot is made IBM watson assistant
 
 it is developed using laravel 8 
 
